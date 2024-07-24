@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "angular-datatables": "^18.0.0",
+    "datatables.net-bs4": "^2.0.8",
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "@types/datatables.net": "^1.12.0",
+    "@types/jquery": "^3.5.30"
+  }
+}
